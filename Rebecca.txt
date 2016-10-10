@@ -1,0 +1,8 @@
+account.name=my checking
+account.initBalance=0.0
+account.currentBalance=100.0
+account.accountType=BankAccount
+account.name=my savings
+account.initBalance=10.0
+account.currentBalance=32.250999437137
+account.accountType=SavingsAccount

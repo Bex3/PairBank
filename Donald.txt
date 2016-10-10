@@ -1,0 +1,4 @@
+account.name=my savings
+account.initBalance=10.0
+account.currentBalance=43.21942375150661
+account.accountType=SavingsAccount
